@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Numbers</string>
+    <string name="button_increase_and_decrease">Показать по возрастанию/убыванию</string>
+    <string name="button_whole_numbers">Показать только четные числа</string>
+    <string name="button_all_numbers">Показать все числа</string>
+
+</resources>
