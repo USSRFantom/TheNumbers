@@ -47,7 +47,8 @@
                     android:text="@string/button_increase_and_decrease"
                     android:textColor="@color/white"
                     android:textSize="15sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:onClick="AscendingAndDescendingSortingMethod"/>
             </LinearLayout>
 
             <LinearLayout
@@ -68,7 +69,8 @@
                     android:paddingRight="10dp"
                     android:textColor="@color/white"
                     android:textSize="15sp"
-                    android:textStyle="bold"/>
+                    android:textStyle="bold"
+                    android:onClick="EvenNumbers"/>
             </LinearLayout>
 
             <LinearLayout
@@ -89,7 +91,8 @@
                     android:paddingRight="10dp"
                     android:textColor="@color/white"
                     android:textSize="15sp"
-                    android:textStyle="bold"/>
+                    android:textStyle="bold"
+                    android:onClick="AllNumbers"/>
             </LinearLayout>
 
             <ScrollView
